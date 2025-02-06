@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop: u
+  - `try..catch`: u
+  - Non-blocking: u
+  - Async I/O: u
+  - Thread pool: u
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,20 +13,20 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
+  - Race conditions: u
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: u
+  - Parallel programming: u
   - Actor Model
-  - Thread
-  - Process
+  - Thread: u
+  - Process: u
 - Async contracts
-  - Callbacks
+  - Callbacks: u
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: u
+  - Async/await: u
   - Future
   - Deferred
   - Sync generator
@@ -35,10 +35,10 @@
   - Event
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal: u
   - Stream
-  - Chain of responsibility
-  - Middleware
+  - Chain of responsibility: u
+  - Middleware: u
   - Locks
 - Async adapters and utils
   - callbackify
@@ -48,7 +48,7 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
+  - Observable/Observer: u
   - Readable
   - Writable
   - Transform
@@ -56,15 +56,15 @@
   - Async Queue
   - Async Collector
   - Semaphore
-  - Mutex
+  - Mutex: u
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
+  - Timers: u
+  - `setImmediate`: u
   - `nextTick`
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
+  - Promise unhandled rejection: u
   - Promise double resolve
   - Atomics
   - High resolution clock
@@ -72,17 +72,17 @@
   - Promise hell
   - ref() and unref()
   - Error handling in async code
-  - Better stack traces with return await
+  - Better stack traces with return await: u
   - JSON streaming serialization
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all: u
   - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.race: u
+  - Promise.any: u
   - Web Locks API
   - IPC
   - Channel API

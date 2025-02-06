@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Constructor: e
+  - Operator `new`: e
+  - Static method: e
+  - Method: e
+  - Async method: e
+  - Getters, Setters: e
+  - Public fields: e
+  - Private fields: e
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Inheritance: e
+  - Parent class: e
+  - Polymorphism: e
+  - Abstract class: e
+  - Interface: e
+  - Encapsulation: e
   - Hidden class
   - Object form
-  - Instance
+  - Instance: e
   - Introspection
-  - Reflection
+  - Reflection: e
   - The diamond problem
 - GRASP
   - Information expert
@@ -58,34 +58,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): e
+  - Open–closed principle (OCP): e
+  - Liskov substitution principle (LSP): e
+  - Interface segregation principle (ISP): e
+  - Dependency inversion principle (DIP): e
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Singleton: e
+  - Factory Method: e
+  - Abstract Factory: e
+  - Adapter: e
+  - Observer: e
+  - Strategy: e
+  - Facade: e
+  - Proxy: k
+  - Chain of Responsibility: k
+  - Command: k
+  - Iterator: k
+  - State: k
+  - Bridge: k
+  - Builder: k
+  - Prototype: k
+  - Composite: k
+  - Decorator: k
+  - Flyweight: k
+  - Mediator: k
+  - Memento: k
+  - Template Method: k
+  - Visitor: k
+  - Reactor: k
+  - Active object: k
+  - Delegation: k
