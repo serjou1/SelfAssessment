@@ -3,20 +3,20 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
+  - Asynchronous and synchronous programming: e
+  - Task-based asynchronous pattern: e
   - Garbage collection in .NET
   - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
+  - I/O-bound, CPU-bound tasks: e
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
-  - Middleware and pipeline configuration
+  - .NET assemblies: u
+  - NuGet package management: c
+  - Dependency management in .NET: e
+  - Dependency Injection in .NET: e
+  - Inversion of Control (IoC): e
+  - IoC containers in .NET: e
+  - Middleware and pipeline configuration: e
   - Modular applications
 - Environment and Tools
   - Command line interface (CLI) tools
@@ -24,66 +24,66 @@
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration
+  - Environment variables and configuration: e
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ: u
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization)
+  - Security features (authentication, authorization): u
   - Cryptography and secure data handling
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
-  - SSL/TLS for secure connections
+  - HTTP/HTTPS support: u
+  - WebSockets for real-time communication: u
+  - TCP/UDP networking: u
+  - SSL/TLS for secure connections: u
   - Efficient network communication with `gRPC`
-  - HTTP/2 and HTTP/3 support
+  - HTTP/2 and HTTP/3 support: u
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Serialization and deserialization (JSON, XML): u
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
+  - Unit testing with frameworks like xUnit, NUnit: u
   - Integration testing
-  - Logging and tracing
-  - Application monitoring and telemetry
-  - Debugging tools and strategies
-  - Performance profiling and analysis
+  - Logging and tracing: u
+  - Application monitoring and telemetry: u
+  - Debugging tools and strategies: u
+  - Performance profiling and analysis: u
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core: u
   - Dapper
   - ADO.NET for database access
-  - Data modeling and migration
-  - Repository and Unit of Work patterns
-  - CRUD operations
+  - Data modeling and migration: u
+  - Repository and Unit of Work patterns: u
+  - CRUD operations: u
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
-  - Profiling and performance analysis
-  - Memory leak detection
+  - Exception handling in .NET: u
+  - Custom error classes: c
+  - Debugging and diagnostic tools: u
+  - Profiling and performance analysis: u
+  - Memory leak detection: u
 - Integration and Extensibility
-  - Interoperability with native libraries
-  - P/Invoke for calling `C/C++` libraries
-  - COM interop
-  - .NET for `WebAssembly`
+  - Interoperability with native libraries: u
+  - P/Invoke for calling `C/C++` libraries: u
+  - COM interop: u
+  - .NET for `WebAssembly`: u
   - Custom middleware development
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
-  - Kubernetes for orchestration
+  - Microservices architecture: u
+  - Containerization with Docker: u
+  - Kubernetes for orchestration: u
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
-  - Attributes and annotations
+  - C# syntax and language fundamentals: u
+  - Advanced C# features (LINQ, async/await, delegates, events): u
+  - Reflection and dynamic programming: u
+  - Data types and collections: u
+  - Generics and extension methods: u
+  - Attributes and annotations: u
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals
@@ -96,11 +96,11 @@
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
 - VB.NET Development
-  - VB.NET syntax and language fundamentals
+  - VB.NET syntax and language fundamentals: u
   - Event-driven programming
   - COM interop and P/Invoke
   - XML and file handling
-  - Office automation and VSTO
+  - Office automation and VSTO: u
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
   - C++ syntax and language fundamentals
@@ -117,12 +117,12 @@
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin
+  - .NET MAUI / Xamarin: u
   - Interoperability between managed code and iOS/Android API
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core: u
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development: u
