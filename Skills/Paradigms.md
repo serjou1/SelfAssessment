@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: e
-  - Operator `new`: e
-  - Static method: e
-  - Method: e
-  - Async method: e
-  - Getters, Setters: e
-  - Public fields: e
-  - Private fields: e
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
   - Field declarations
-  - Inheritance: e
-  - Parent class: e
-  - Polymorphism: e
-  - Abstract class: e
-  - Interface: e
-  - Encapsulation: e
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
   - Hidden class
   - Object form
-  - Instance: e
+  - Instance: 🙋 explained
   - Introspection
-  - Reflection: e
+  - Reflection: 🙋 explained
   - The diamond problem
 - GRASP
   - Information expert
@@ -58,34 +58,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP): e
-  - Open–closed principle (OCP): e
-  - Liskov substitution principle (LSP): e
-  - Interface segregation principle (ISP): e
-  - Dependency inversion principle (DIP): e
+  - Single-responsibility principle (SRP): 🙋 explained
+  - Open–closed principle (OCP): 🙋 explained
+  - Liskov substitution principle (LSP): 🙋 explained
+  - Interface segregation principle (ISP): 🙋 explained
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
-  - Singleton: e
-  - Factory Method: e
-  - Abstract Factory: e
-  - Adapter: e
-  - Observer: e
-  - Strategy: e
-  - Facade: e
-  - Proxy: k
-  - Chain of Responsibility: k
-  - Command: k
-  - Iterator: k
-  - State: k
-  - Bridge: k
-  - Builder: k
-  - Prototype: k
-  - Composite: k
-  - Decorator: k
-  - Flyweight: k
-  - Mediator: k
-  - Memento: k
-  - Template Method: k
-  - Visitor: k
-  - Reactor: k
-  - Active object: k
-  - Delegation: k
+  - Singleton: 🙋 explained
+  - Factory Method: 🙋 explained
+  - Abstract Factory: 🙋 explained
+  - Adapter: 🙋 explained
+  - Observer: 🙋 explained
+  - Strategy: 🙋 explained
+  - Facade: 🙋 explained
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
+  - Reactor: 🎓 known
+  - Active object: 🎓 known
+  - Delegation: 🎓 known

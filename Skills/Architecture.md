@@ -20,8 +20,8 @@
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion: u
-  - Coupling: u
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -29,22 +29,22 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: u
+  - Isolation between layer: 🖐️ used
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC): u
-  - Dependency injection (DI): u
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub: u
-  - Message brocker: u
+  - Pub/sub: 🖐️ used
+  - Message brocker: 🖐️ used
   - Agent
-  - Service locator: k
-  - Message Queue (MQ): u
+  - Service locator: 🎓 known
+  - Message Queue (MQ): 🖐️ used
   - CQRS
   - Event sourcing
   - E-R data modeling
@@ -54,7 +54,7 @@
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
-  - High-intensive computing: u
+  - High-intensive computing: 🖐️ used
   - Load balancing
   - Gateways
   - On-premises
@@ -79,7 +79,7 @@
   - BPMN
   - Low-code
   - No-code
-  - Metric: u
+  - Metric: 🖐️ used
   - Metric abuse
   - ACID
   - CAP theorem
@@ -93,7 +93,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices: u
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse

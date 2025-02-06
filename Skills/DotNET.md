@@ -3,20 +3,20 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
-  - Asynchronous and synchronous programming: e
-  - Task-based asynchronous pattern: e
+  - Asynchronous and synchronous programming: 🙋 explained
+  - Task-based asynchronous pattern: 🙋 explained
   - Garbage collection in .NET
   - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks: e
+  - I/O-bound, CPU-bound tasks: 🙋 explained
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies: u
-  - NuGet package management: c
-  - Dependency management in .NET: e
-  - Dependency Injection in .NET: e
-  - Inversion of Control (IoC): e
-  - IoC containers in .NET: e
-  - Middleware and pipeline configuration: e
+  - .NET assemblies: 🖐️ used
+  - NuGet package management: 🚀 constructed
+  - Dependency management in .NET: 🙋 explained
+  - Dependency Injection in .NET: 🙋 explained
+  - Inversion of Control (IoC): 🙋 explained
+  - IoC containers in .NET: 🙋 explained
+  - Middleware and pipeline configuration: 🙋 explained
   - Modular applications
 - Environment and Tools
   - Command line interface (CLI) tools
@@ -24,66 +24,66 @@
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration: e
+  - Environment variables and configuration: 🙋 explained
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ: u
+  - LINQ: 🖐️ used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization): u
+  - Security features (authentication, authorization): 🖐️ used
   - Cryptography and secure data handling
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support: u
-  - WebSockets for real-time communication: u
-  - TCP/UDP networking: u
-  - SSL/TLS for secure connections: u
+  - HTTP/HTTPS support: 🖐️ used
+  - WebSockets for real-time communication: 🖐️ used
+  - TCP/UDP networking: 🖐️ used
+  - SSL/TLS for secure connections: 🖐️ used
   - Efficient network communication with `gRPC`
-  - HTTP/2 and HTTP/3 support: u
+  - HTTP/2 and HTTP/3 support: 🖐️ used
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML): u
+  - Serialization and deserialization (JSON, XML): 🖐️ used
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit: u
+  - Unit testing with frameworks like xUnit, NUnit: 🖐️ used
   - Integration testing
-  - Logging and tracing: u
-  - Application monitoring and telemetry: u
-  - Debugging tools and strategies: u
-  - Performance profiling and analysis: u
+  - Logging and tracing: 🖐️ used
+  - Application monitoring and telemetry: 🖐️ used
+  - Debugging tools and strategies: 🖐️ used
+  - Performance profiling and analysis: 🖐️ used
 - Data Access and ORM
-  - Entity Framework Core: u
+  - Entity Framework Core: 🖐️ used
   - Dapper
   - ADO.NET for database access
-  - Data modeling and migration: u
-  - Repository and Unit of Work patterns: u
-  - CRUD operations: u
+  - Data modeling and migration: 🖐️ used
+  - Repository and Unit of Work patterns: 🖐️ used
+  - CRUD operations: 🖐️ used
 - Error Handling and Debugging
-  - Exception handling in .NET: u
-  - Custom error classes: c
-  - Debugging and diagnostic tools: u
-  - Profiling and performance analysis: u
-  - Memory leak detection: u
+  - Exception handling in .NET: 🖐️ used
+  - Custom error classes: 🚀 constructed
+  - Debugging and diagnostic tools: 🖐️ used
+  - Profiling and performance analysis: 🖐️ used
+  - Memory leak detection: 🖐️ used
 - Integration and Extensibility
-  - Interoperability with native libraries: u
-  - P/Invoke for calling `C/C++` libraries: u
-  - COM interop: u
-  - .NET for `WebAssembly`: u
+  - Interoperability with native libraries: 🖐️ used
+  - P/Invoke for calling `C/C++` libraries: 🖐️ used
+  - COM interop: 🖐️ used
+  - .NET for `WebAssembly`: 🖐️ used
   - Custom middleware development
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture: u
-  - Containerization with Docker: u
-  - Kubernetes for orchestration: u
+  - Microservices architecture: 🖐️ used
+  - Containerization with Docker: 🖐️ used
+  - Kubernetes for orchestration: 🖐️ used
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals: u
-  - Advanced C# features (LINQ, async/await, delegates, events): u
-  - Reflection and dynamic programming: u
-  - Data types and collections: u
-  - Generics and extension methods: u
-  - Attributes and annotations: u
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
+  - Reflection and dynamic programming: 🖐️ used
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
+  - Attributes and annotations: 🖐️ used
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals
@@ -96,11 +96,11 @@
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
 - VB.NET Development
-  - VB.NET syntax and language fundamentals: u
+  - VB.NET syntax and language fundamentals: 🖐️ used
   - Event-driven programming
   - COM interop and P/Invoke
   - XML and file handling
-  - Office automation and VSTO: u
+  - Office automation and VSTO: 🖐️ used
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
   - C++ syntax and language fundamentals
@@ -117,12 +117,12 @@
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin: u
+  - .NET MAUI / Xamarin: 🖐️ used
   - Interoperability between managed code and iOS/Android API
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core: u
+  - ASP.NET Core: 🖐️ used
   - Blazor
   - Razor Syntax
-  - RESTful API development: u
+  - RESTful API development: 🖐️ used
